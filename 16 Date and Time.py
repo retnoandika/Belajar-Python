@@ -1,1 +1,1 @@
-print('Retno Andika')
+print(f'Retno Andika = {5 * 34}')
