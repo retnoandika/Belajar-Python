@@ -77,6 +77,3 @@ print('nilai x =',x,', id =',hex(id(x)))
 print('nilai y =',y,', id =',hex(id(y)))
 hasil = x is not y
 print('x is not y =',hasil)
-
-
-

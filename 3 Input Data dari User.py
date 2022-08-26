@@ -1,4 +1,3 @@
-
 # Data yang dimasukkan pasti string
 data = input("Masukkan data: ")
 print("data =", data,"type =", type(data))
@@ -12,11 +11,3 @@ print("data =", angka,"type =", type(angka))
 # Untuk boolean
 biner = bool(int(input("Masukkan nilai boolean:")))
 print("data =", biner, "type =", type(biner))
-
-
-
-
-
-
-
-

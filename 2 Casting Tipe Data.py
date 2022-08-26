@@ -47,17 +47,3 @@ data_float = float(data_str) # false jika str kosong
 print("data =", data_int, ",type =", type(data_int))
 print("data =", data_bool, ",type =", type(data_bool))
 print("data =", data_float, ",type =", type(data_float))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
