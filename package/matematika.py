@@ -1,11 +1,10 @@
-# 51 Membuat Module
+# 52 __Init___
 
-# module matematika
 def tambah(*args):
     hasil = 0
     for data in args:
         hasil += data
-
+    
     return hasil
 
 def kali(*args):
@@ -15,6 +14,5 @@ def kali(*args):
     
     return hasil
 
-def pangkat(n:int):
-    return lambda angka:angka**n
-
+    def pangkat(n):
+        return lambda angka:angka**n

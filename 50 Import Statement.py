@@ -16,6 +16,6 @@ print(program_variable.data)
 print(program_yusuf.data)
 
 # 3. import dengan fungsi
-import matematika
-hasil = matematika.tambah(4,5)
+import mtk
+hasil = mtk.tambah(4,5)
 print(hasil)

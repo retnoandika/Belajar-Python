@@ -1,3 +1,3 @@
-# Untuk 50 Import Statement 
+# 50 Import Statement 
 
 data = "Yusuf Mahardika ada?"

@@ -1,0 +1,1 @@
+Menggunakan standard library di program python untuk pemula
